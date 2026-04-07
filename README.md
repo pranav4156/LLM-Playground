@@ -13,7 +13,8 @@ Hugging Face
 
 It also includes embeddings and document similarity features for advanced experimentation.
 
-🔥 Features
+🔥 Features:
+
 🤖 Multi-LLM support (OpenAI, Gemini, Anthropic, Hugging Face)
 💬 Chat model implementations
 🔗 LangChain-based workflows
